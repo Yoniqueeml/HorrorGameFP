@@ -1677,3 +1677,69 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.28-13.07.52:718][985]LogPlayLevel: Display: Destroying online subsystem :Context_4
 [2024.04.28-13.09.04:768][283]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
 [2024.04.28-13.09.04:768][283]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.04.28-13.10.35:371][557]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Altryd/Documents/Unreal Projects/HorrorGameFP/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2024.04.28-13.10.35:371][557]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Altryd/Documents/Unreal Projects/HorrorGameFP/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2024.04.28-13.10.35:371][557]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Altryd/Documents/Unreal Projects/HorrorGameFP/Content/Developers/Altryd/Collections/' because it could not be accessed. Aborting watch request...
+[2024.04.28-13.10.53:794][783]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.28-13.10.57:252][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.28-13.10.58:106][964]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.28-13.10.58:204][964]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MedievalDungeon/Maps/Demonstration.Demonstration
+[2024.04.28-13.10.58:206][964]Cmd: MAP LOAD FILE="../../../../../../Users/Altryd/Documents/Unreal Projects/HorrorGameFP/Content/MedievalDungeon/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.28-13.10.58:206][964]LightingResults: New page: Lighting Build
+[2024.04.28-13.10.58:206][964]LoadErrors: New page: Loading map: Demonstration.umap
+[2024.04.28-13.10.58:243][964]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.28-13.10.58:244][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.28-13.10.58:250][964]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.28-13.10.58:250][964]MapCheck: New page: Map Check
+[2024.04.28-13.10.58:250][964]LightingResults: New page: Lighting Build
+[2024.04.28-13.10.58:260][964]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.28-13.10.58:271][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.04.28-13.10.58:294][964]LogStaticMesh: Display: Waiting for static meshes to be ready 2/122 (/Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin) ...
+[2024.04.28-13.10.58:327][964]LogStaticMesh: Display: Waiting for static meshes to be ready 8/122 (/Game/MedievalDungeon/Meshes/Props/SM_Table) ...
+[2024.04.28-13.10.58:353][964]LogStaticMesh: Display: Waiting for static meshes to be ready 13/122 (/Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded) ...
+[2024.04.28-13.10.58:429][964]LogStaticMesh: Display: Waiting for static meshes to be ready 35/122 (/Game/MedievalDungeon/Meshes/Props/SM_Lock_Closed) ...
+[2024.04.28-13.10.59:188][964]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2024.04.28-13.10.59:195][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.28-13.10.59:223][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.04.28-13.10.59:229][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.28-13.10.59:366][964]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demonstration'.
+[2024.04.28-13.10.59:366][964]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.28-13.10.59:366][964]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.28-13.10.59:366][964]LogAIModule: Creating AISystem for world Demonstration
+[2024.04.28-13.10.59:684][964]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.28-13.10.59:710][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.28-13.10.59:713][964]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.28-13.10.59:714][964]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,377ms to complete.
+[2024.04.28-13.11.00:661][966]LogShaderCompilers: Error: SCW 1 Queued Jobs, Finished 0 single jobs
+[2024.04.28-13.11.00:661][966]LogShaderCompilers: Error: Job 0 [Single] Failed: M_Master_ba4564e09d6f09f8/Default/FLocalVertexFactory/TShadowDepthVSVertexShadowDepth_VirtualShadowMap/0:/Engine/Private/ShadowDepthVertexShader.usf|Main VF 'FLocalVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_VirtualShadowMap' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+[2024.04.28-13.11.00:680][966]LogShaderCompilers: Error: ShaderCompileWorker crashed!
+Assertion failed: bDirectoryExists [File:D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Private\ShaderCore.cpp] [Line: 2755] 
+FPaths::DirectoryExists(C:/Users/Altryd/Documents/Unreal Projects/HorrorGameFP/Intermediate/ShaderAutogen C:/Users/Altryd/Documents/Unreal Projects/HorrorGameFP/Intermediate/ShaderAutogen) DESKTOP-IP287ED
+
+0x00007ff6248a2b3a ShaderCompileWorker.exe!FWorkLoop::ProcessInputFromArchive() []
+0x00007ff62489eb09 ShaderCompileWorker.exe!FWorkLoop::Loop() []
+0x00007ff62489babb ShaderCompileWorker.exe!GuardedMain() []
+0x00007ff62489bd52 ShaderCompileWorker.exe!GuardedMainWrapper() []
+0x00007ff6248ad989 ShaderCompileWorker.exe!wmain() []
+0x00007ff6248af09c ShaderCompileWorker.exe!__scrt_common_main_seh() []
+0x00007ff8c7ab7344 KERNEL32.DLL!UnknownFunction []
+0x00007ff8c8de26b1 ntdll.dll!UnknownFunction []
+
+
+
+
+[2024.04.28-13.11.00:680][966]LogShaderCompilers: Error: File path: "C:/Users/Altryd/AppData/Local/Temp/UnrealShaderWorkingDir/E8071E1545E1B6EAE02A88BE5C8B3839/5/WorkerOutputOnly.out"
+Expecting single job header ID 0x00000053, got 0x00000000 instead!
+Forgot to build ShaderCompileWorker or delete invalidated DerivedDataCache?
+
+[2024.04.28-13.11.03:921][107]LogSlate: Took 0.000872 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.04.28-13.11.03:921][107]Message dialog closed, result: Ok, title: Corrupted ShaderCompileWorker output file, text: File path: "C:/Users/Altryd/AppData/Local/Temp/UnrealShaderWorkingDir/E8071E1545E1B6EAE02A88BE5C8B3839/5/WorkerOutputOnly.out"
+Expecting single job header ID 0x00000053, got 0x00000000 instead!
+Forgot to build ShaderCompileWorker or delete invalidated DerivedDataCache?
+[2024.04.28-13.11.03:921][107]LogWindows: FPlatformMisc::RequestExit(0, ShaderCompiler.ModalErrorOrLog)
+[2024.04.28-13.11.03:921][107]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0, ShaderCompiler.ModalErrorOrLog)
+[2024.04.28-13.11.03:921][107]LogCore: Engine exit requested (reason: Win RequestExit)
+[2024.04.28-13.11.03:923][107]LogShaderCompilers: Error: File path: "C:/Users/Altryd/AppData/Local/Temp/UnrealShaderWorkingDir/E8071E1545E1B6EAE02A88BE5C8B3839/5/WorkerOutputOnly.out"
+Expecting 1 single job, got 0 instead!
+Forgot to build ShaderCompileWorker or delete invalidated DerivedDataCache?
+
