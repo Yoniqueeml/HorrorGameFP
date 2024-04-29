@@ -4,14 +4,7 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
-			"files": [
-				"C:/Users/Altryd/Documents/Unreal Projects/HorrorGameFP/Content/StarterContent/Props/MaterialSphere.uasset",
-				"C:/Users/Altryd/Documents/Unreal Projects/HorrorGameFP/Content/MedievalDungeon/Maps/Demonstration.umap",
-				"C:/Users/Altryd/Documents/Unreal Projects/HorrorGameFP/Content/Blueprints/Actor/BP_Key.uasset",
-				"C:/Users/Altryd/Documents/Unreal Projects/HorrorGameFP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/Altryd/Documents/Unreal Projects/HorrorGameFP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/E0/2ZM8ECGK6KE45P666Y410R.uasset",
-				"C:/Users/Altryd/Documents/Unreal Projects/HorrorGameFP/Content/ThirdPerson/Blueprints/BPI_Interact.uasset"
-			]
+			"files": []
 		}
 	]
 }
