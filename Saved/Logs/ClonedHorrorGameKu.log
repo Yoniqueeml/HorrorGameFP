@@ -1389,3 +1389,149 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.02-10.54.54:025][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.05.02-10.54.54:028][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
 [2024.05.02-10.54.54:138][792]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.05.02-10.55.57:452][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.55.57:526][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.55.57:544][572]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.55.57:544][572]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BPEC03F6234ADC691722BF088A6419FC3A.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.55.57:549][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.22 sec)
+[2024.05.02-10.55.57:551][572]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.55.57:552][572]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.56.08:989][320]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.56.09:026][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.02-10.56.15:845][774]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.56.15:905][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.56.15:923][774]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.56.15:923][774]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BP9245344B47D6468978625FBC96A1F1BB.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.56.15:928][774]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1.30 sec)
+[2024.05.02-10.56.15:930][774]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.56.15:931][774]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.56.16:305][812]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.56.16:341][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.05.02-10.56.22:969][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.56.23:039][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.56.23:057][ 48]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.56.23:057][ 48]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BP1FA0A46548A928808E0902B61204E150.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.56.23:062][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 1.39 sec)
+[2024.05.02-10.56.23:065][ 48]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.56.23:065][ 48]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.56.23:410][ 84]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.56.23:445][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.05.02-10.56.42:618][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.56.42:691][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.56.42:709][ 13]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.56.42:710][ 13]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BPCC6688424A455C497D1637A381D6E31B.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.56.42:714][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.49 sec)
+[2024.05.02-10.56.42:717][ 13]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.56.42:717][ 13]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.56.47:185][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.56.47:251][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.56.47:270][402]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.56.47:270][402]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BP73A7296C4F7CB4AADE3B23BA11AC2C8F.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.56.47:275][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 1.58 sec)
+[2024.05.02-10.56.47:277][402]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.56.47:277][402]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.56.47:687][444]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.56.47:724][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.02-10.57.07:417][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.57.07:488][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.57.07:507][228]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.57.07:507][228]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BP3C271660410474B962C721B3E6352506.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.57.07:513][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 1.68 sec)
+[2024.05.02-10.57.07:515][228]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.57.07:515][228]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.57.15:398][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.57.15:471][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.57.15:490][969]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.57.15:491][969]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BP7336A6804C7D55589B72F1BB58D77616.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.57.15:495][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 1.77 sec)
+[2024.05.02-10.57.15:498][969]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.57.15:498][969]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.57.17:461][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.57.17:500][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.57.17:519][142]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.57.17:519][142]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BP038813C1439CDC024F27989CDFA57D36.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.57.17:524][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.84 sec)
+[2024.05.02-10.57.17:526][142]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.57.17:526][142]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.57.17:697][158]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.57.17:733][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.05.02-10.57.41:566][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.57.41:638][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.57.41:657][ 81]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.57.41:657][ 81]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BP805571DE47BC285323AEE29AD4E70A5B.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.57.41:662][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 1.93 sec)
+[2024.05.02-10.57.41:665][ 81]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.57.41:665][ 81]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.57.41:886][103]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.57.41:924][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.02-10.58.01:343][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.58.01:402][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.58.01:421][755]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.58.01:422][755]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BP4E7A988D49A3E4DC145F8F8F349EB353.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.58.01:427][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 2.02 sec)
+[2024.05.02-10.58.01:429][755]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.58.01:429][755]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.58.02:463][861]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.58.02:501][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.05.02-10.58.13:147][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.58.13:220][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.58.13:239][466]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.58.13:240][466]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BP062051BA429BC4E99AE906883B8BE445.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.58.13:244][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 2.11 sec)
+[2024.05.02-10.58.13:247][466]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.58.13:247][466]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.58.14:647][579]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.58.14:702][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.58.14:722][579]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.58.14:722][579]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BPB1D3FB474A69A6A13562C6AD11572A23.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.58.14:728][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 2.19 sec)
+[2024.05.02-10.58.14:730][579]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.58.14:730][579]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.58.15:092][615]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.58.15:130][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.02-10.58.27:247][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.58.27:319][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.58.27:340][981]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.58.27:340][981]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BP52A7DB9B467BD89B2F1C95A689C5D4F6.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.58.27:345][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 2.29 sec)
+[2024.05.02-10.58.27:347][981]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.58.27:347][981]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.58.38:380][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.58.38:453][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.58.38:474][496]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.58.38:474][496]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BP32B2D8BC4FEFA882C00DC4B2A2C737DD.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.58.38:479][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 2.39 sec)
+[2024.05.02-10.58.38:481][496]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.58.38:481][496]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.58.42:598][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.58.42:670][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.58.42:691][902]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.58.42:691][902]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BPDB1F4CE84994EACF5845A7B8BAF1C9D5.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.58.42:696][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 2.49 sec)
+[2024.05.02-10.58.42:698][902]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.58.42:698][902]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.58.51:598][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.58.51:668][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.58.51:689][760]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.58.51:689][760]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BP39C9B73B48EB2D912DED56A34E2507CC.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.58.51:694][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 2.58 sec)
+[2024.05.02-10.58.51:697][760]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.58.51:697][760]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.58.52:235][813]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.58.52:271][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.05.02-10.59.10:464][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.59.10:531][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.59.10:551][266]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.59.10:552][266]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BP7C8FD3D648456362523209BFB2803AAF.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.59.10:557][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 2.68 sec)
+[2024.05.02-10.59.10:560][266]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.59.10:560][266]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.59.11:729][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.59.11:784][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.59.11:804][372]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.59.11:805][372]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BP4A021E9E46F29DEA0C85B2B655662ACF.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.59.11:810][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 2.76 sec)
+[2024.05.02-10.59.11:812][372]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.59.11:812][372]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.59.12:340][424]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.59.12:380][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
