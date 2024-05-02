@@ -1204,3 +1204,188 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.02-10.40.37:203][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.05.02-10.40.37:206][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
 [2024.05.02-10.40.37:310][383]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.05.02-10.42.13:556][876]LogDerivedDataCache: C:/Users/lolva/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:32.203 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16818 files in 19360 folders with total size 4126 MiB.
+[2024.05.02-10.49.20:100][227]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.49.20:102][227]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-10.49.20:102][227]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-10.49.20:116][227]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.05.02-10.49.21:481][227]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.02-10.49.33:683][  9]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.49.33:716][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.05.02-10.49.52:824][998]LogEditorTransaction: Undo Add Node
+[2024.05.02-10.50.26:279][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.50.26:334][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.50.26:355][ 16]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.50.26:355][ 16]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BP0406883E4F76612D16DCCE9BD73DB7C9.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.50.26:361][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 164 ms)
+[2024.05.02-10.50.26:362][ 16]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.50.26:362][ 16]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.50.26:642][ 42]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.50.26:676][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.05.02-10.50.36:260][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.50.36:333][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.50.36:349][522]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.50.36:349][522]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BP998B44F244E9E5BA4CB4D1823A2FF190.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.50.36:353][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 257 ms)
+[2024.05.02-10.50.36:356][522]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.50.36:356][522]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.50.36:653][552]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.50.36:687][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.05.02-10.50.45:446][159]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.50.45:479][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.02-10.51.09:520][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.51.09:581][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.51.09:598][121]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.51.09:598][121]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BPC695CB75495FEB7E2941AFAA0B0F900F.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.51.09:603][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 339 ms)
+[2024.05.02-10.51.09:605][121]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.51.09:605][121]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.51.09:902][149]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.51.09:938][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.05.02-10.51.32:577][597]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.51.32:610][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.05.02-10.51.37:738][729]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-10.51.50:092][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.51.50:164][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.51.50:180][499]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.51.50:181][499]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BPA8E5844240183F6E9B96C788B2DC38D9.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.51.50:185][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 432 ms)
+[2024.05.02-10.51.50:188][499]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.51.50:188][499]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.51.51:451][559]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.51.51:485][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.05.02-10.52.02:686][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.52.02:746][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.52.02:763][949]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.52.02:764][949]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BPC2C129934FDD2A73083090B418477ACA.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.52.02:768][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 513 ms)
+[2024.05.02-10.52.02:771][949]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.52.02:771][949]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.52.03:117][982]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.52.03:150][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.05.02-10.52.22:458][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.52.22:529][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.52.22:546][107]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.52.22:546][107]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BPF616DDB245979F109846C699BFF7DC2F.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.52.22:550][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 606 ms)
+[2024.05.02-10.52.22:553][107]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.52.22:553][107]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.52.23:590][210]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.52.23:626][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.05.02-10.52.43:292][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.52.43:346][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.52.43:364][842]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.52.43:365][842]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BP0E524CDB4BC01C425FB8B49184DFD7F1.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.52.43:369][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 683 ms)
+[2024.05.02-10.52.43:372][842]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.52.43:372][842]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.52.43:562][859]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.52.43:597][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.05.02-10.53.09:986][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.53.10:042][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.53.10:058][830]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.53.10:059][830]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BPA0F5797E4840C04E2C2F88BD2DCFF04B.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.53.10:063][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 760 ms)
+[2024.05.02-10.53.10:066][830]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.53.10:066][830]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.53.24:855][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.53.24:929][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.53.24:946][952]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.53.24:947][952]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BPF2C2A1074D5329DDC172C78481C8BDDB.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.53.24:951][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 856 ms)
+[2024.05.02-10.53.24:954][952]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.53.24:954][952]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.53.26:148][ 64]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.53.26:184][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.02-10.53.38:055][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.53.38:112][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.53.38:129][825]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.53.38:130][825]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BPAF9B7453435345BE4D4B7F8BF3890775.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.53.38:134][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 935 ms)
+[2024.05.02-10.53.38:137][825]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.53.38:137][825]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.53.38:470][858]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.53.38:506][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.05.02-10.54.04:704][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.54.04:777][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.54.04:795][221]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.54.04:795][221]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BPA2936066499B7094F7A3B5A420961341.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.54.04:800][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 1.03 sec)
+[2024.05.02-10.54.04:802][221]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.54.04:802][221]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.54.04:982][237]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.54.05:018][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.02-10.54.24:170][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.02-10.54.24:243][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PortalSystem/Portal_BP" FILE="../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset" SILENT=true
+[2024.05.02-10.54.24:261][134]LogSavePackage: Moving output files for package: /Game/PortalSystem/Portal_BP
+[2024.05.02-10.54.24:261][134]LogSavePackage: Moving '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Saved/Portal_BP8AB866CB4C7EB9364F19F3B2596D3E6E.tmp' to '../../../../../../../PetProjects/UE5_GAME/CloningRep/HorrorGameFP/Content/PortalSystem/Portal_BP.uasset'
+[2024.05.02-10.54.24:265][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 1.12 sec)
+[2024.05.02-10.54.24:268][134]AssetCheck: New page: Asset Save: Portal_BP
+[2024.05.02-10.54.24:268][134]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PortalSystem/Portal_BP.Portal_BP
+[2024.05.02-10.54.24:675][174]BlueprintLog: New page: Compile Portal_BP
+[2024.05.02-10.54.24:713][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.02-10.54.31:013][244]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.02-10.54.31:019][244]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.02-10.54.31:019][244]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.05.02-10.54.31:021][244]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 3 ms)
+[2024.05.02-10.54.31:021][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.02-10.54.31:021][244]PIE: New page: PIE session: ThirdPersonMap (2 мая 2024 г., 18:54:31)
+[2024.05.02-10.54.31:048][244]LogPlayLevel: Display: Creating online subsystem for client :Context_6
+[2024.05.02-10.54.31:050][244]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.05.02-10.54.31:058][245]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-10.54.31:063][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004949s)
+[2024.05.02-10.54.31:063][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004981s)
+[2024.05.02-10.54.31:078][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.05.02-10.54.31:082][245]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.02-10.54.31:082][245]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.02-10.54.31:083][245]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.05.02-10.54.31:083][245]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.02-10.54.31:083][245]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.02-10.54.31:083][245]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.05.02-10.54.31:083][245]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.05.02-10.54.31:084][245]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.05.02-10.54.31:084][245]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 455 ms)
+[2024.05.02-10.54.31:084][245]LogPlayLevel: PIE: World Init took: (0.002422s)
+[2024.05.02-10.54.31:085][245]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.05.02-10.54.31:085][245]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.02-10.54.31:085][245]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.02-10.54.31:085][245]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.02-10.54.31:085][245]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.02-10.54.31:085][245]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.02-10.54.31:085][245]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.02-10.54.31:085][245]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.02-10.54.31:085][245]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.02-10.54.31:085][245]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.02-10.54.31:085][245]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.02-10.54.31:085][245]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.02-10.54.31:086][245]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.02-10.54.31:102][245]LogAudioMixer: Display: Using Audio Hardware Device FxSound Speakers (FxSound Audio Enhancer)
+[2024.05.02-10.54.31:102][245]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.02-10.54.31:102][245]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.02-10.54.31:102][245]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.02-10.54.31:103][245]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.05.02-10.54.31:103][245]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.05.02-10.54.31:104][245]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.05.02-10.54.31:104][245]LogInit: FAudioDevice initialized with ID 3.
+[2024.05.02-10.54.31:104][245]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.05.02-10.54.31:104][245]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2024.05.02-10.54.31:104][245]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.02-10.54.31:108][245]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.02-10.54.31:111][245]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.05.02-14.54.31
+[2024.05.02-10.54.31:111][245]LogWorld: Bringing up level for play took: 0.002887
+[2024.05.02-10.54.31:114][245]PIE: Server logged in
+[2024.05.02-10.54.31:115][245]PIE: Play in editor total start time 0,096 seconds.
+[2024.05.02-10.54.53:999][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-10.54.53:999][791]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.05.02-10.54.53:999][791]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.02-10.54.54:000][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-10.54.54:000][791]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.05.02-10.54.54:003][791]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.02-10.54.54:007][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.02-10.54.54:020][791]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.02-10.54.54:020][791]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.02-10.54.54:020][791]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.02-10.54.54:022][791]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.02-10.54.54:025][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.02-10.54.54:028][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.05.02-10.54.54:138][792]LogPlayLevel: Display: Destroying online subsystem :Context_6
